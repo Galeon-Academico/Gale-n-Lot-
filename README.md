@@ -1,7 +1,7 @@
 # 🌐 Portafolio Digital – Formación en Tinkercad
 
 ## 👨‍🏫 Autor
-[Nombre del estudiante]
+Andres Calamaro
 
 ---
 
