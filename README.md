@@ -51,7 +51,7 @@ Durante el desarrollo de la actividad, se trabajaron conceptos relacionados con 
 Se evidencia el correcto funcionamiento del circuito una vez energizado, verificando su comportamiento esperado dentro del entorno de simulación.
 
 ### 🖼️ Evidencia (captura de pantalla)
-![Evidencia](AQUÍ_LINK_IMAGEN)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Validaci%C3%B3n%20del%20funcionamiento%20del%20circuito.png)
 
 ---
 
