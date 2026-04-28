@@ -11,7 +11,7 @@ Andres Calamaro
 En esta sección se describe lo comprendido a partir de la lectura de la guía de actividades, identificando los pasos necesarios para el desarrollo de la formación en Tinkercad.
 
 ### 🖼️ Evidencia (captura de pantalla)
-![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/tinkercard1.png)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Tinkercad%20presentacion.png)
 
 ---
 
