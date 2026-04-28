@@ -41,7 +41,7 @@ Se accedió a la plataforma Tinkercad, explorando su entorno de trabajo, herrami
 Durante el desarrollo de la actividad, se trabajaron conceptos relacionados con circuitos electrónicos básicos, su montaje y funcionamiento. Asimismo, se abordó la identificación de componentes y su correcta conexión dentro del entorno de simulación.
 
 ### 🖼️ Evidencias (capturas de pantalla)
-![Evidencia](AQUÍ_LINK_IMAGEN)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Desarrollo%20de%20mi-02.png)
 
 ---
 
