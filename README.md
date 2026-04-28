@@ -61,7 +61,7 @@ Se evidencia el correcto funcionamiento del circuito una vez energizado, verific
 Se presenta la evidencia final del circuito desarrollado como resultado del proceso de aprendizaje.
 
 ### 🖼️ Evidencia (captura de pantalla)
-![Evidencia](AQUÍ_LINK_IMAGEN)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Evidencia%20final.png)
 
 ---
 
