@@ -2,4 +2,4 @@
 Portafolio digital de evidencias del proceso formativo Tinkercad
 ## 🖼️ Evidencia del montaje
 
-![Circuito Flip-Flop](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/main/tinkercad1.png)
+![Circuito Flip-Flop](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/main/tinkercard1.png)
