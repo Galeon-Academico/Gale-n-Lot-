@@ -31,7 +31,7 @@ Se realizó el registro en la plataforma Tinkercad, siguiendo los pasos indicado
 Se accedió a la plataforma Tinkercad, explorando su entorno de trabajo, herramientas disponibles y estructura general.
 
 ### 🖼️ Evidencia (captura de pantalla)
-![Evidencia](AQUÍ_LINK_IMAGEN)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Descripci%C3%B3n%20tinker.png)
 
 ---
 
