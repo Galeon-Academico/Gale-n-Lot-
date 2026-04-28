@@ -21,7 +21,7 @@ En esta sección se describe lo comprendido a partir de la lectura de la guía d
 Se realizó el registro en la plataforma Tinkercad, siguiendo los pasos indicados para la creación de la cuenta.
 
 ### 🖼️ Evidencia (captura de pantalla)
-![Evidencia](AQUÍ_LINK_IMAGEN)
+![Evidencia](https://raw.githubusercontent.com/Galeon-Academico/Gale-n-Lot-/refs/heads/main/Registro%20en%20Tinkercad-03.png)
 
 ---
 
